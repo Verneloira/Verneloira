@@ -14,5 +14,14 @@
 - <a href="www.linkedin.com/in/fernanda-verne">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin">
 </a>
-[![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneloira)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+[![Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=Verneloira)](https://github.com/anuraghazra/github-readme-stats) <br/>
+<br/>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=Verneloira&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
